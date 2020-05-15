@@ -1,2 +1,2 @@
-# learn-django
-learn-django
+# wisdom-pets
+A simple django application for adopting pets online.
